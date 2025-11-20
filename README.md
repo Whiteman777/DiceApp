@@ -1,16 +1,44 @@
-# diceapp
+# DiceRoller
 
-A new Flutter project.
+Dice Roller app built with Flutter
 
-## Getting Started
+## Guide
+* [Supported Platforms](#supported-platforms)
+* [Features](#features)
+* [Installation](#installation)
 
-This project is a starting point for a Flutter application.
+## Supported Platforms
+- Android
+- Web (coming soon)
+- Windows Desktop (coming soon)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+Easy to use dice roller that works efficently
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+  * source code
+  * APK
+
+### 1- Source Code
+
+#### 1.1- Setup Flutter 
+
+Download and setup flutter SDKs from https://docs.flutter.dev/install
+
+#### 1.2- Clone Repository
+
+```bash
+git clone https://github.com/Whiteman777/DiceApp.git
+```
+
+#### 1.3- Run Flutter App
+
+```bash
+cd 'Path/TO/Your/File'
+Flutter run
+```
+
+### 2- Download APK Directly
+[Dice Roller](https://drive.google.com/file/d/1BkQUBNDIfQhw-uENa1XxD7zmJYArersA/view?usp=sharing)
+

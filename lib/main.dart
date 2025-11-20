@@ -3,9 +3,9 @@ import 'package:diceapp/gradient_container.dart';
 
 void main() {
   runApp(
-    const MaterialApp(
+     const MaterialApp(
       home: Scaffold(
-        body: GradientContainer(),
+        body: GradientContainer([Colors.deepPurple, Colors.blueAccent,Colors.blueGrey]),
       ),
     ),
   );
